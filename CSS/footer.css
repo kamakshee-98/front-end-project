@@ -1,0 +1,22 @@
+/*Footer style-sheet and it is linked with footer.html and linked with all html pages */
+
+/* copy right aligned center*/
+p{
+    text-align: center;
+    border-top: solid;
+}
+/* Given style to nav-bars*/ 
+.list-link{
+    text-decoration: none;
+    color: black;
+}
+/*Background image for footer*/
+.row{
+    background-image: linear-gradient(to left,rgb(185, 168, 72),rgb(56, 52, 52));
+}
+/*Alignment for footer*/
+.footer{
+    width: 100%;
+    top:0;
+    position: relative;
+}

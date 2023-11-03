@@ -1,0 +1,31 @@
+/* Header style-sheet linked with "header.html" and linked with all html pages. */
+/* Style for container-fluid*/
+.container-fluid{
+    background-image: linear-gradient(to left,rgb(185, 168, 72),rgb(56, 52, 52));
+    font-style: italic;
+}
+i{
+    /* font-awesome size*/ 
+    font-size: 25px;
+    color: black;
+}
+
+.btn-warning:hover{
+    /*button hover*/
+    background-color: orange;
+    font-size:25px;
+}
+.row1{
+    background-image: linear-gradient(to right,rgb(228, 161, 38),rgb(221,221,50));
+}
+.nav-link{
+    color: black;
+}
+.nav-item{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-style: italic;
+}
+
+

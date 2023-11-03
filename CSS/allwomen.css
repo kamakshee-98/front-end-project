@@ -1,0 +1,48 @@
+/*All-women stylesheet linked with "allwomen.html" page */
+h1{
+    /*Main heading alignment*/
+    text-align: center;
+    background-image: linear-gradient(to left,gold,rgb(255, 187, 0));
+    margin-top: 3px;
+    padding: 10px;
+}
+h5{
+    /*sub-alignment alignment*/
+    text-align: center;
+    background-color:rgb(196, 89, 40);
+    padding: 7px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+body{
+    /*Background-image*/
+    background-image: url('../Images/cover1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    /*card-body aligment*/
+    display: inline-grid;
+    margin-bottom: 25px;
+    padding: 15px;
+    background-color:rgb(238, 238, 152);
+}
+i{
+    /*font-awesome size*/
+    font-size: 15px;
+}
+.btn-dark:hover{
+    /*button hover*/
+    background-color: rgb(165, 132, 42);
+    color: black;
+    font-size: 18px;
+}
+h4{
+    /* card-heading */
+    font-size: 20px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color: rgb(255, 166, 0);
+}

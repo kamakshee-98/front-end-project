@@ -1,0 +1,22 @@
+/*login.css stylesheet linked with login.html*/
+.container{
+    background-image: linear-gradient(rgb(211, 189, 63),rgb(165, 101, 42),rgb(216, 216, 50));
+    padding: 70px;
+}
+/*style--to heading*/
+h1{
+    text-align: center;
+    background-image: linear-gradient(to left,gold,rgb(255, 187, 0));
+    margin-top: 3px;
+    padding: 10px;
+}
+/* style--heading- hover*/
+h1:hover{
+    color: white;
+}
+.form{
+    font-size: 25px;
+}
+body{
+    background-image: url(../images/cover1.png);
+}

@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    background-image: linear-gradient(to left,gold,rgb(255, 187, 0));
+    margin-top: 3px;
+    padding: 10px;
+}
+body{
+    /*Background-image*/
+    background-image: url('../Images/cover1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    background-image: linear-gradient(rgb(211, 189, 63),rgb(165, 101, 42),rgb(216, 216, 50));
+}
+label{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 200;
+}
+
+h1:hover{
+    color: white;
+}

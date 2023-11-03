@@ -1,0 +1,42 @@
+/* all-product stylesheet. It is linked with allproducts.html */
+h1{
+    /* Main heading */
+    text-align: center;
+    background-image: linear-gradient(to left,gold,rgb(255, 187, 0));
+    margin-top: 3px;
+    padding: 10px;
+}
+h5{
+    /* Sub-heading */
+    text-align: center;
+    background-color: chocolate;
+    padding: 7px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+h4{
+    /* card-title */
+    font-size: 20px;
+}
+body{
+    /*Background-image*/
+    background-image: url('../Images/cover1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    /* card-body alignment*/
+    display: inline-grid;
+    margin-bottom: 25px;
+    padding: 15px;
+}
+i{
+    /* font-awesome icon*/
+    font-size: 15px;
+}
+/* button hover */
+.btn-dark:hover{
+    background-color: rgb(165, 132, 42);
+    color: black;
+    font-size: 18px;
+}
